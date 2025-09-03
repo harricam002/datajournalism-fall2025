@@ -46,3 +46,12 @@
 - Some images were effective, while others felt like fillers.  
 
 **Creativity rating:** 3.5/5
+
+
+# Pitch for Final Project
+
+My idea for a final project is to do a data-driven story about the financial burden of youth baseball programs. I could get data from local little leagues, and also from travel baseball programs, and compare those two differing systems. This story is timely now because travel baseball is increasingly expensive and recreational little leagues are dying. I could talk to officials at local little leagues and travel programs to get data, but also talk to players who have been in either system to share their experiences with them.
+
+## Note about AI usage in this assignment
+
+I used chatGPT throughout this assignment to help me correctly format the text in markdown language, including headers and bullet points.
