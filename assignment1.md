@@ -1,4 +1,5 @@
 # Critique of *“Lawless: One in three Alaska villages have no local police”*
+[Link to story](https://www.adn.com/alaska-news/lawless/2019/05/16/lawless-one-in-three-alaska-villages-have-no-local-police/)
 
 ## Clarity and Accuracy
 - **Clarity of message:** 5/5  
