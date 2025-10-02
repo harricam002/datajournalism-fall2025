@@ -42,17 +42,23 @@ Here are some links to relevant sources:
 [https://www.stanfordchildrens.org/en/topic/default%3Fid%3Dsports-injury-statistics-90-P02787
 ](url) (HIGH QUALITY DATASET)
 
+This dataset is trustworthy because it comes from a renowned institution but it also links its source to a larger study done.
+
 [https://www.igniteperformance.net/2019-8-6-we-are-destroying-americas-youth-athletes/ 
 ](url)
 
 [https://injuryfacts.nsc.org/home-and-community/safety-topics/sports-and-recreational-injuries/
 ](url) (HIGH QUALITY DATASET)
 
+This is probably the highest quality dataset because it gives a lot of numbers for different specific areas.
+
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC11113040/
 ](url)
 
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10749669/
 ](url) (HIGH QUALITY DATASET)
+
+This dataset is high quality because it includes a lot of different data from different studies.
 
 [https://www.nationwidechildrens.org/specialties/sports-medicine/sports-medicine-articles/kids-sports-injuries-the-numbers-are-impressive
 ](url)
