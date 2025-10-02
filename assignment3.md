@@ -40,19 +40,19 @@ Here are some links to relevant sources:
 ](url)
 
 [https://www.stanfordchildrens.org/en/topic/default%3Fid%3Dsports-injury-statistics-90-P02787
-](url)
+](url) (HIGH QUALITY DATASET)
 
 [https://www.igniteperformance.net/2019-8-6-we-are-destroying-americas-youth-athletes/ 
 ](url)
 
 [https://injuryfacts.nsc.org/home-and-community/safety-topics/sports-and-recreational-injuries/
-](url)
+](url) (HIGH QUALITY DATASET)
 
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC11113040/
 ](url)
 
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10749669/
-](url)
+](url) (HIGH QUALITY DATASET)
 
 [https://www.nationwidechildrens.org/specialties/sports-medicine/sports-medicine-articles/kids-sports-injuries-the-numbers-are-impressive
 ](url)
@@ -66,3 +66,5 @@ Here are some links to relevant sources:
 [https://www.aaos.org/aaosnow/2023/jun/research/research03/](url)
 
 [https://www.cdc.gov/mmwr/volumes/68/wr/mm6810a2.htm?s_cid=mm6810a2_w#T2_up](url)
+
+What has not been done, however, is finding out how these injuries and overuses effect people as they move into higher levels of playing. I would like to figure out how and if there is a coorelation between injury and overuse in youth sports and how those players can perform after their youth.
