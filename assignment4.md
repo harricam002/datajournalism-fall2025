@@ -5,6 +5,6 @@ Links to stories
 
 Links to new data visualizations
 
-![Alt text](22C5D079-3E26-43A5-8172-6B111448E10C_1_105_c.jpg)
+![Alt text](.jpg)
 
 ![Alt text](7AB893BB-8460-4433-8B69-2527AB0A0C8E_1_105_c.jpg)
